@@ -1,4 +1,5 @@
 # ionic3-angular4-charts-example
+ creating beautiful charts (line, doughnut and bar) easily using Ionic 3 and Angular 4.
 
 ## just need few tools and modules:
 - Node.js
